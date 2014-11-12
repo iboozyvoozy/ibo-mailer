@@ -1,6 +1,10 @@
 # mailer
 
-mailer - simple build system for html emails with inlined CSS
+### Simple build system for html emails with inlined CSS
+
+Preprocessors:
+- jade
+- stylus
 
 Fight!
 ```
