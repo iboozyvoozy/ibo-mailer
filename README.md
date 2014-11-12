@@ -5,6 +5,7 @@
 #### Convert this
 
 ```index.jade```
+
 ```jade
 head
 	link(rel="stylesheet" href="css/main.css")
@@ -13,6 +14,7 @@ body
 ```
 
 ```main.styl```
+
 ```styl
 p
 	color red
@@ -21,6 +23,7 @@ p
 #### into this
 
 ```index.html```
+
 ```html
 <head></head>
 <body>
