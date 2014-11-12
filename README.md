@@ -4,7 +4,7 @@
 
 #### Convert this
 
-```index.jade```
+`index.jade`
 
 ```jade
 head
@@ -13,16 +13,16 @@ body
 	p Hello
 ```
 
-```main.styl```
+`main.styl`
 
-```styl
+```stylus
 p
 	color red
 ```
 
 #### into this
 
-```index.html```
+`index.html`
 
 ```html
 <head></head>
