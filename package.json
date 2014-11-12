@@ -1,0 +1,36 @@
+{
+
+	"name": "app",
+
+	"version": "0.0.1",
+
+	"dependencies": {
+
+		"express": "4",
+		"nodemailer": "*",
+		"compression": "*",
+		"coffee-script": "*"
+
+	},
+
+	"devDependencies": {
+
+		"gulp": "*",
+		"gulp-jade": "*",
+		"gulp-shell": "*",
+		"gulp-stylus": "*",
+		"gulp-plumber": "*",
+		"gulp-changed": "*",
+		"gulp-browserify": "*",
+		"gulp-inline-css": "*",
+		"gulp-autoprefixer": "*",
+		
+		"del": "*",
+		"lodash": "*",
+		"optimist": "*",
+		"run-sequence": "*",
+		"browser-sync": "*"
+
+	}
+
+}
