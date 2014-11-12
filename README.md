@@ -3,6 +3,8 @@
 ### Simple build system for html emails with inlined CSS
 
 #### Convert this
+
+```index.jade```
 ```jade
 head
 	link(rel="stylesheet" href="css/main.css")
@@ -10,7 +12,15 @@ body
 	p Hello
 ```
 
+```main.styl```
+```styl
+p
+	color red
+```
+
 #### into this
+
+```index.html```
 ```html
 <head></head>
 <body>
