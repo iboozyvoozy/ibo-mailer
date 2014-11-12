@@ -16,5 +16,7 @@ options =
 	html: html
 
 transporter.sendMail options, (err, info) ->
-	throw err if err
-	console.log "Done: #{info.response}"
+	if err
+		console.log err
+	else
+		console.log info.response
