@@ -1,1 +1,7 @@
-Simple build system for HTML emails
+# mailer
+
+Usage
+```
+npm i
+gulp
+```
