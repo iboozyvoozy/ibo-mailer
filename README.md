@@ -1,10 +1,10 @@
 # mailer
 
-Usage
+mailer - simple build system for html emails with inlined CSS
+
+Fight!
 ```
 npm i
-```
-```
 gulp
 ```
 
