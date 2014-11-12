@@ -13,7 +13,9 @@ body
 #### into this
 ```html
 <head></head>
-<body><p style="color:red;">Hello</p></body>
+<body>
+	<p style="color:red;">Hello</p>
+</body>
 ```
 
 Preprocessors:
