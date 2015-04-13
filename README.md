@@ -1,4 +1,4 @@
-# mailer
+# ibo-mailer
 
 ### Simple build system for html emails with inlined CSS
 
