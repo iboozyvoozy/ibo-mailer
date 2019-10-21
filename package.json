@@ -15,7 +15,7 @@
 
 	"devDependencies": {
 
-		"gulp": "*",
+		"gulp": "3",
 		"gulp-jade": "*",
 		"gulp-shell": "*",
 		"gulp-stylus": "*",
